@@ -1,2 +1,3 @@
 # myfirstrepo
-WA Assignment 1
+My Name is "Yeshwanth Reddy Kottam"
+my favorite Actor is "Allu Arjun"
